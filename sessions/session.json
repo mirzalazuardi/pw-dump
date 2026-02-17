@@ -1,0 +1,1432 @@
+[
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "https://example.com/",
+    "postData": null,
+    "ts": 1770807514365
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "https://example.com/",
+    "ts": 1770807514410
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/",
+    "postData": null,
+    "ts": 1770807528515
+  },
+  {
+    "type": "network-response",
+    "status": 301,
+    "url": "http://localhost:3000/",
+    "ts": 1770807529159
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/index.html",
+    "postData": null,
+    "ts": 1770807529160
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/index.html",
+    "ts": 1770807529168
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/styles/vendor.da909deb.css",
+    "postData": null,
+    "ts": 1770807529187
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/styles/main.ebb4e599.css",
+    "postData": null,
+    "ts": 1770807529187
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/vendor.ff5e5b9b.js",
+    "postData": null,
+    "ts": 1770807529187
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/scripts.5c9bc99d.js",
+    "postData": null,
+    "ts": 1770807529188
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/bower_components/momentjs/min/moment-with-locales.min.js",
+    "postData": null,
+    "ts": 1770807529188
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/styles/vendor.da909deb.css",
+    "ts": 1770807529202
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/styles/main.ebb4e599.css",
+    "ts": 1770807529203
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/bower_components/momentjs/min/moment-with-locales.min.js",
+    "ts": 1770807529214
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/scripts.5c9bc99d.js",
+    "ts": 1770807529324
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/vendor.ff5e5b9b.js",
+    "ts": 1770807529343
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/pages/auth/index.html?domain=localhost",
+    "postData": null,
+    "ts": 1770807529560
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/pages/auth/index.html?domain=localhost",
+    "ts": 1770807529578
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v1/companies/current_company?domain=localhost",
+    "postData": null,
+    "ts": 1770807529578
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/images/eresto-logo.png",
+    "postData": null,
+    "ts": 1770807529578
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/images/background-company.jpg",
+    "postData": null,
+    "ts": 1770807529646
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/styles/fonts/Muli/Muli-Regular.ttf",
+    "postData": null,
+    "ts": 1770807529647
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/styles/fonts/lato-v11-latin-700.woff2",
+    "postData": null,
+    "ts": 1770807529647
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/themes/default/assets/fonts/icons.woff2",
+    "postData": null,
+    "ts": 1770807529647
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/images/eresto-logo.png",
+    "ts": 1770807529648
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/images/background-company.jpg",
+    "ts": 1770807529649
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/styles/fonts/lato-v11-latin-700.woff2",
+    "ts": 1770807529780
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/styles/fonts/Muli/Muli-Regular.ttf",
+    "ts": 1770807529780
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/themes/default/assets/fonts/icons.woff2",
+    "ts": 1770807529785
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v1/companies/current_company?domain=localhost",
+    "ts": 1770807530072
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/image/upload/v1740122875/image/upload/v1740122875/Kaizen_image.png",
+    "postData": null,
+    "ts": 1770807530084
+  },
+  {
+    "type": "network-response",
+    "status": 404,
+    "url": "http://localhost:3000/image/upload/v1740122875/image/upload/v1740122875/Kaizen_image.png",
+    "ts": 1770807530220
+  },
+  {
+    "type": "network-request",
+    "method": "POST",
+    "url": "http://localhost:3000/v1/sessions?domain=localhost",
+    "postData": "{\"user\":{\"email\":\"super@kaizen.com\",\"password\":\"12345678\"}}",
+    "ts": 1770807539837
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v1/sessions?domain=localhost",
+    "ts": 1770807540624
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v1/me?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807540833
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v1/me?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807540833
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v1/me?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807540833
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v1/me?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807541129
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v1/me?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807541254
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v2/pages?admin_privileges%5Bcan_view%5D=true&admin_privileges%5Brole_id%5D=8100514d-20d1-4479-ba0d-be219a8ef2c0&domain=localhost&module_item%5Bmodule_packages%5D%5Bcan_access%5D=true&module_item%5Bmodule_packages%5D%5Bpackage_id%5D=b047bce1-9885-4723-b6af-0821aaded550&per_page=300&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807541256
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v1/me?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807541403
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v2/admin_privileges?domain=localhost&per_page=1000&role_id=8100514d-20d1-4479-ba0d-be219a8ef2c0&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807541404
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v2/pages?admin_privileges%5Bcan_view%5D=true&admin_privileges%5Brole_id%5D=8100514d-20d1-4479-ba0d-be219a8ef2c0&domain=localhost&module_item%5Bmodule_packages%5D%5Bcan_access%5D=true&module_item%5Bmodule_packages%5D%5Bpackage_id%5D=b047bce1-9885-4723-b6af-0821aaded550&per_page=300&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807542751
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v2/admin_privileges?domain=localhost&per_page=1000&role_id=8100514d-20d1-4479-ba0d-be219a8ef2c0&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807543054
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/layouts/application.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543060
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/layouts/application.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807543065
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/pages/dashboard/dashboard.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543065
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/pages/dashboard/dashboard.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807543079
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v2/app_privileges?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&role_id=8100514d-20d1-4479-ba0d-be219a8ef2c0&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543099
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v1/syncs/last_sync?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543099
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v1/divisions/184b4e6e-5abe-4fdd-ab3f-ad9fda96cabc?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543116
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v1/companies/current_company?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K&user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624",
+    "postData": null,
+    "ts": 1770807543116
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v3/budgetings?budgeting_type=budgeting_project&company_id=2e016366-d838-4e9a-919e-c0c9f4775f25&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&per_page=all&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543116
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v2/divisions?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&include_area=true&per_page=all&simple=true&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543116
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/shared/directives/dateRangePickerFormatted.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543116
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/pages/dashboard/components/monthly_target_chart.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543117
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/pages/dashboard/components/daily_target_chart.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543117
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/pages/dashboard/components/average_per_transaction.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543117
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/pages/dashboard/components/peak_hour_new_chart.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543117
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/pages/dashboard/components/top_selling_products_chart.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543117
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/pages/dashboard/components/product_ranking_table.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543117
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/pages/dashboard/components/outlet_ranking_table.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543117
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/pages/dashboard/components/sales_channel_chart.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543117
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/pages/dashboard/components/sales_channel_per_outlet_chart.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543118
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/eresto_inspections/notifications?company_id=2e016366-d838-4e9a-919e-c0c9f4775f25&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&per_page=all&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543166
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/eresto_inspections/adhoc_monitoring?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&per_page=all&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543167
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v1/users?domain=localhost&role=tenant&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543167
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/layouts/partials/header.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543167
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/layouts/partials/sidebar/sidebar_dynamic.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543167
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/layouts/partials/ui_select/select.tpl.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543168
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/pages/dashboard/components/revenue_new_chart.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543168
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/pages/orders/components/graph_by_revenue.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543168
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/pages/dashboard/components/order_new_chart.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543168
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v3/dashboard/graph_turnovers?company_id=2e016366-d838-4e9a-919e-c0c9f4775f25&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&outlet_id=&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543168
+  },
+  {
+    "type": "network-response",
+    "status": 201,
+    "url": "http://localhost:3000/v1/syncs/last_sync?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807543606
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v2/app_privileges?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&role_id=8100514d-20d1-4479-ba0d-be219a8ef2c0&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807543614
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/shared/directives/dateRangePickerFormatted.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807543625
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/pages/dashboard/components/monthly_target_chart.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807543631
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/pages/dashboard/components/daily_target_chart.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807543634
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/pages/dashboard/components/average_per_transaction.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807543660
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/styles/fonts/lato-v11-latin-regular.woff2",
+    "postData": null,
+    "ts": 1770807543660
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/images/icons/thumbs-up-icon.svg",
+    "postData": null,
+    "ts": 1770807543660
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/images/icons/thumbs-down-icon.svg",
+    "postData": null,
+    "ts": 1770807543661
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/pages/dashboard/components/peak_hour_new_chart.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807543668
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v1/orders/get_sales_target_monthly_and_daily?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&division_id=&domain=localhost&exclude_oc=false&target_apc_daily=0&target_apc_monthly=0&target_order_daily=0&target_order_monthly=0&target_revenue_daily=0&target_revenue_monthly=0&tenant_id=&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543668
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/pages/dashboard/components/top_selling_products_chart.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807543674
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/pages/dashboard/components/product_ranking_table.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807543678
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/layouts/partials/min-pagination.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543678
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v2/product_categories?company_id=2e016366-d838-4e9a-919e-c0c9f4775f25&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807543678
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/images/empty-state.png",
+    "postData": null,
+    "ts": 1770807543678
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/styles/fonts/lato-v11-latin-regular.woff2",
+    "ts": 1770807544115
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/pages/dashboard/components/outlet_ranking_table.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807544122
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/pages/dashboard/components/sales_channel_chart.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807544127
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/pages/dashboard/components/sales_channel_per_outlet_chart.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807544131
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v1/orders/graph_by_hour?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date_end=2026-02-11+23:59:59.999&date_start=2026-02-11+00:00:00.000&domain=localhost&outlet_id=&tenant_id=&timeframe=today&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807544132
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v1/companies/current_company?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K&user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624",
+    "ts": 1770807544135
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v3/dashboard/graph_sales_channels?company_id=2e016366-d838-4e9a-919e-c0c9f4775f25&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date_end=2026-02-11+23:59:59.999&date_start=2026-02-11+00:00:00.000&domain=localhost&outlet_id=&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807544159
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v3/dashboard/graph_sales_channel_per_outlets?company_id=2e016366-d838-4e9a-919e-c0c9f4775f25&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date_end=2026-02-11+23:59:59.999&date_start=2026-02-11+00:00:00.000&domain=localhost&outlet_id=&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807544160
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v2/divisions?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&include_area=true&per_page=all&simple=true&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807544741
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/layouts/partials/header.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807544750
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "https://static.vecteezy.com/system/resources/previews/014/396/449/original/comic-style-bell-notification-icon-with-transparent-background-file-png.png",
+    "postData": null,
+    "ts": 1770807544772
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/images/icons/user-solid-circle.svg",
+    "postData": null,
+    "ts": 1770807544772
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/images/icons/user-icon.svg",
+    "postData": null,
+    "ts": 1770807544773
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/images/icons/power-icon.svg",
+    "postData": null,
+    "ts": 1770807544773
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/images/icons/menu-icon-w.svg",
+    "postData": null,
+    "ts": 1770807544773
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/images/site-icon.svg",
+    "postData": null,
+    "ts": 1770807544773
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/layouts/partials/sidebar/sidebar_dynamic.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807544802
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/images/icons/%7B%7B%20module.icon%20%7D%7D.svg",
+    "postData": null,
+    "ts": 1770807544803
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/images/icons/export-icon.png",
+    "postData": null,
+    "ts": 1770807544803
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/images/icons/gear-icon.svg",
+    "postData": null,
+    "ts": 1770807544803
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/images/icons/meter-icon.svg",
+    "postData": null,
+    "ts": 1770807544803
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/images/icons/graph-line-icon.svg",
+    "postData": null,
+    "ts": 1770807544803
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/images/icons/products-icon.svg",
+    "postData": null,
+    "ts": 1770807544803
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/images/icons/swap-icon.svg",
+    "postData": null,
+    "ts": 1770807544803
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/images/icons/cart-icon.svg",
+    "postData": null,
+    "ts": 1770807544804
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/images/icons/user-group-icon.svg",
+    "postData": null,
+    "ts": 1770807544804
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/images/icons/wallet-icon.svg",
+    "postData": null,
+    "ts": 1770807544804
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/images/icons/assets-icon.svg",
+    "postData": null,
+    "ts": 1770807544804
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/images/icons/suitcase-icon.svg",
+    "postData": null,
+    "ts": 1770807544804
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/images/icons/broadcast-icon.svg",
+    "postData": null,
+    "ts": 1770807544804
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/layouts/partials/ui_select/select.tpl.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807544813
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/layouts/partials/ui_select/match.tpl.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807544813
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/layouts/partials/ui_select/choices.tpl.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807544813
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/pages/dashboard/components/revenue_new_chart.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807544826
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v1/orders/get_sales_target_monthly_and_daily?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&division_id=&domain=localhost&exclude_charges=false&exclude_oc=false&target_apc_daily=0&target_apc_monthly=0&target_order_daily=0&target_order_monthly=0&target_revenue_daily=0&target_revenue_monthly=0&tenant_id=&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807544826
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/pages/orders/components/graph_by_revenue.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807544832
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v1/orders/graph_by_revenue?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date_end=2026-02-11+23:59:59.999&date_start=2026-02-11+00:00:00.000&domain=localhost&exclude_charges=false&exclude_oc=false&outlet_id=&tenant_id=&timeframe=today&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807544834
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/pages/dashboard/components/order_new_chart.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807544839
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v1/orders/graph_by_order?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date_end=2026-02-11+23:59:59.999&date_start=2026-02-11+00:00:00.000&domain=localhost&outlet_id=&timeframe=today&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807544842
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "https://static.vecteezy.com/system/resources/previews/014/396/449/original/comic-style-bell-notification-icon-with-transparent-background-file-png.png",
+    "ts": 1770807544843
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v3/dashboard/graph_rangking_products?category=food&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date_end=2026-02-11+23:59:59.999&date_start=2026-02-11+00:00:00.000&domain=localhost&outlet_id=&per_page=5&sort%5Border%5D=desc&sort%5Bproperty%5D=sold_quantity&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807545137
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v1/users?domain=localhost&role=tenant&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807545566
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v3/budgetings?budgeting_type=budgeting_project&company_id=2e016366-d838-4e9a-919e-c0c9f4775f25&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&per_page=all&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807545817
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/layouts/partials/min-pagination.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807545874
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v1/divisions/184b4e6e-5abe-4fdd-ab3f-ad9fda96cabc?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807545880
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v3/dashboard/graph_rangking_products?company_id=2e016366-d838-4e9a-919e-c0c9f4775f25&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date_end=2026-02-11+23:59:59.999&date_start=2026-02-11+00:00:00.000&domain=localhost&outlet_id=&page=1&per_page=5&sort%5Border%5D=desc&sort%5Bproperty%5D=total_sales&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807546070
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v3/dashboard/graph_rangking_outlets?company_id=2e016366-d838-4e9a-919e-c0c9f4775f25&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date_end=2026-02-11+23:59:59.999&date_start=2026-02-11+00:00:00.000&domain=localhost&outlet_id=&page=1&per_page=5&sort%5Border%5D=desc&sort%5Bproperty%5D=total_payment&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807546072
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v3/dashboard/graph_rangking_products?category=drink&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date_end=2026-02-11+23:59:59.999&date_start=2026-02-11+00:00:00.000&domain=localhost&outlet_id=&per_page=5&sort%5Border%5D=desc&sort%5Bproperty%5D=sold_quantity&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807546135
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/eresto_inspections/notifications?company_id=2e016366-d838-4e9a-919e-c0c9f4775f25&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&per_page=all&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807546142
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/eresto_inspections/adhoc_monitoring?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&per_page=all&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807546189
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v3/dashboard/graph_rangking_products?category=other&company_id=2e016366-d838-4e9a-919e-c0c9f4775f25&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date_end=2026-02-11+23:59:59.999&date_start=2026-02-11+00:00:00.000&domain=localhost&outlet_id=&per_page=5&sort%5Border%5D=desc&sort%5Bproperty%5D=sold_quantity&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807547139
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v2/product_categories?company_id=2e016366-d838-4e9a-919e-c0c9f4775f25&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807547139
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/images/site-icon.svg",
+    "ts": 1770807547205
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/images/icons/user-solid-circle.svg",
+    "ts": 1770807547217
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/images/icons/menu-icon-w.svg",
+    "ts": 1770807547244
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/layouts/partials/ui_select/match.tpl.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807547274
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/layouts/partials/ui_select/choices.tpl.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807547302
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/images/icons/cart-icon.svg",
+    "ts": 1770807547310
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/images/icons/graph-line-icon.svg",
+    "ts": 1770807547353
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/images/icons/products-icon.svg",
+    "ts": 1770807547362
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/images/icons/suitcase-icon.svg",
+    "ts": 1770807547380
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/images/icons/broadcast-icon.svg",
+    "ts": 1770807547393
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/images/icons/meter-icon.svg",
+    "ts": 1770807547410
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/images/icons/assets-icon.svg",
+    "ts": 1770807547423
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/images/icons/swap-icon.svg",
+    "ts": 1770807547431
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/images/icons/user-group-icon.svg",
+    "ts": 1770807547454
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/images/icons/wallet-icon.svg",
+    "ts": 1770807547480
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/images/icons/export-icon.png",
+    "ts": 1770807547498
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/images/icons/gear-icon.svg",
+    "ts": 1770807547548
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v3/dashboard/graph_turnovers?company_id=2e016366-d838-4e9a-919e-c0c9f4775f25&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&outlet_id=&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807548150
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v1/orders/graph_by_hour?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date_end=2026-02-11+23:59:59.999&date_start=2026-02-11+00:00:00.000&domain=localhost&outlet_id=&tenant_id=&timeframe=today&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807549847
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v1/orders/graph_by_revenue?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date_end=2026-02-11+23:59:59.999&date_start=2026-02-11+00:00:00.000&domain=localhost&exclude_charges=false&exclude_oc=false&outlet_id=&tenant_id=&timeframe=today&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807550512
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v3/dashboard/graph_sales_channel_per_outlets?company_id=2e016366-d838-4e9a-919e-c0c9f4775f25&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date_end=2026-02-11+23:59:59.999&date_start=2026-02-11+00:00:00.000&domain=localhost&outlet_id=&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807551080
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/pages/orders/orders.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807551863
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v1/orders/get_sales_target_monthly_and_daily?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&division_id=&domain=localhost&exclude_oc=false&target_apc_daily=0&target_apc_monthly=0&target_order_daily=0&target_order_monthly=0&target_revenue_daily=0&target_revenue_monthly=0&tenant_id=&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807551939
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v3/dashboard/graph_sales_channels?company_id=2e016366-d838-4e9a-919e-c0c9f4775f25&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date_end=2026-02-11+23:59:59.999&date_start=2026-02-11+00:00:00.000&domain=localhost&outlet_id=&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807552455
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v1/orders/get_sales_target_monthly_and_daily?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&division_id=&domain=localhost&exclude_charges=false&exclude_oc=false&target_apc_daily=0&target_apc_monthly=0&target_order_daily=0&target_order_monthly=0&target_revenue_daily=0&target_revenue_monthly=0&tenant_id=&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807552760
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v1/orders/graph_by_order?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date_end=2026-02-11+23:59:59.999&date_start=2026-02-11+00:00:00.000&domain=localhost&outlet_id=&timeframe=today&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807553248
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v1/orders/graph_by_pax?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date_end=2026-02-11+23:59:59.999&date_start=2026-02-11+00:00:00.000&domain=localhost&outlet_id=&timeframe=today&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807553248
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/pages/orders/orders.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807553267
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/pages/orders/orders/orders.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807553270
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v3/dashboard/graph_rangking_products?category=food&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date_end=2026-02-11+23:59:59.999&date_start=2026-02-11+00:00:00.000&domain=localhost&outlet_id=&per_page=5&sort%5Border%5D=desc&sort%5Bproperty%5D=sold_quantity&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807553437
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/pages/orders/orders/orders.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807553452
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/themes/pagination.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807553587
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v2/couriers?company_id=2e016366-d838-4e9a-919e-c0c9f4775f25&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&per_page=all&sort%5Border%5D=asc&sort%5Bproperty%5D=name&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807553587
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v3/order_channels?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&per_page=20&sort%5Border%5D=asc&sort%5Bproperty%5D=name&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807553587
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v3/delivery_services?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&per_page=20&sort%5Border%5D=asc&sort%5Bproperty%5D=name&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807553587
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v2/company_settings?company_id=2e016366-d838-4e9a-919e-c0c9f4775f25&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&name=terms_and_conditions&per_page=1&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807553587
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v2/customer_categories?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&per_page=all&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807553588
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v2/promotions?company_id=2e016366-d838-4e9a-919e-c0c9f4775f25&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&page=1&per_page=all&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807553588
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/layouts/partials/print_out/order.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807553683
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/images/icons/thumbs-up-icon.svg",
+    "ts": 1770807553684
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v3/dashboard/graph_rangking_products?company_id=2e016366-d838-4e9a-919e-c0c9f4775f25&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date_end=2026-02-11+23:59:59.999&date_start=2026-02-11+00:00:00.000&domain=localhost&outlet_id=&page=1&per_page=5&sort%5Border%5D=desc&sort%5Bproperty%5D=total_sales&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807553685
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/themes/pagination.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807553689
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v3/orders?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date%5Bgeq%5D=Wed,+11+Feb+2026+00:00:00.000&date%5Bleq%5D=Wed,+11+Feb+2026+23:59:59.999&domain=localhost&outlet_id=&page=1&per_page=20&sort%5Border%5D=desc&sort%5Bproperty%5D=date&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807553835
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v3/dashboard/graph_rangking_products?category=drink&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date_end=2026-02-11+23:59:59.999&date_start=2026-02-11+00:00:00.000&domain=localhost&outlet_id=&per_page=5&sort%5Border%5D=desc&sort%5Bproperty%5D=sold_quantity&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807554463
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v3/order_channels?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&per_page=20&sort%5Border%5D=asc&sort%5Bproperty%5D=name&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807554718
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v3/dashboard/graph_rangking_products?category=other&company_id=2e016366-d838-4e9a-919e-c0c9f4775f25&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date_end=2026-02-11+23:59:59.999&date_start=2026-02-11+00:00:00.000&domain=localhost&outlet_id=&per_page=5&sort%5Border%5D=desc&sort%5Bproperty%5D=sold_quantity&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807555214
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v2/couriers?company_id=2e016366-d838-4e9a-919e-c0c9f4775f25&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&per_page=all&sort%5Border%5D=asc&sort%5Bproperty%5D=name&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807555302
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v3/delivery_services?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&per_page=20&sort%5Border%5D=asc&sort%5Bproperty%5D=name&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807555345
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/layouts/partials/print_out/order.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807555375
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v2/company_settings?company_id=2e016366-d838-4e9a-919e-c0c9f4775f25&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&name=terms_and_conditions&per_page=1&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807555632
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/images/icons/thumbs-down-icon.svg",
+    "ts": 1770807555639
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/images/empty-state.png",
+    "ts": 1770807555646
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/images/icons/user-icon.svg",
+    "ts": 1770807555653
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/images/icons/power-icon.svg",
+    "ts": 1770807555664
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v2/customer_categories?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&per_page=all&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807556247
+  },
+  {
+    "type": "network-response",
+    "status": 404,
+    "url": "http://localhost:3000/manager/v2/images/icons/%7B%7B%20module.icon%20%7D%7D.svg",
+    "ts": 1770807556287
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v1/orders/graph_by_pax?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date_end=2026-02-11+23:59:59.999&date_start=2026-02-11+00:00:00.000&domain=localhost&outlet_id=&timeframe=today&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807556327
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v3/orders?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date%5Bgeq%5D=Wed,+11+Feb+2026+00:00:00.000&date%5Bleq%5D=Wed,+11+Feb+2026+23:59:59.999&domain=localhost&outlet_id=&page=1&per_page=20&sort%5Border%5D=desc&sort%5Bproperty%5D=date&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807557672
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v2/promotions?company_id=2e016366-d838-4e9a-919e-c0c9f4775f25&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&page=1&per_page=all&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807560772
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v3/dashboard/graph_sales_channel_per_outlets?company_id=2e016366-d838-4e9a-919e-c0c9f4775f25&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date_end=2026-02-11+23:59:59.999&date_start=2026-02-11+00:00:00.000&domain=localhost&outlet_id=&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807566338
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v3/dashboard/graph_sales_channel_per_outlets?company_id=2e016366-d838-4e9a-919e-c0c9f4775f25&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date_end=2026-02-11+23:59:59.999&date_start=2026-02-11+00:00:00.000&domain=localhost&outlet_id=&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807567594
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v3/dashboard/graph_rangking_outlets?company_id=2e016366-d838-4e9a-919e-c0c9f4775f25&current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date_end=2026-02-11+23:59:59.999&date_start=2026-02-11+00:00:00.000&domain=localhost&outlet_id=&page=1&per_page=5&sort%5Border%5D=desc&sort%5Bproperty%5D=total_payment&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807574759
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/scripts/layouts/partials/toast/toast.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770807745996
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/scripts/layouts/partials/toast/toast.html?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770807746043
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v3/orders?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date%5Bgeq%5D=Wed,+11+Feb+2026+00:00:00.000&date%5Bleq%5D=Wed,+11+Feb+2026+23:59:59.999&domain=localhost&outlet_id=&page=1&per_page=20&sort%5Border%5D=desc&sort%5Bproperty%5D=date&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770808011643
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v3/orders?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date%5Bgeq%5D=Wed,+11+Feb+2026+00:00:00.000&date%5Bleq%5D=Wed,+11+Feb+2026+23:59:59.999&domain=localhost&outlet_id=&page=1&per_page=20&sort%5Border%5D=desc&sort%5Bproperty%5D=date&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770808012504
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v2/orders/df301f42-8c10-47d2-b75d-8c41d0c7d684?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770808050129
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/images/keyboard_arrow_up-24px.24a93bb6.svg",
+    "postData": null,
+    "ts": 1770808050129
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/manager/v2/images/keyboard_arrow_down-24px.c3d75740.svg",
+    "postData": null,
+    "ts": 1770808050129
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/images/keyboard_arrow_down-24px.c3d75740.svg",
+    "ts": 1770808050172
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/manager/v2/images/keyboard_arrow_up-24px.24a93bb6.svg",
+    "ts": 1770808050173
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v2/orders/df301f42-8c10-47d2-b75d-8c41d0c7d684?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770808052393
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v2/stock_cards?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&per_page=all&reference_id%5B%5D=63c853c2-2aa4-43ef-825b-d083d2deac1d&reference_type%5B%5D=OrderItem&reference_type%5B%5D=Void&simple=true&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770808052395
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v2/stock_cards?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&domain=localhost&per_page=all&reference_id%5B%5D=63c853c2-2aa4-43ef-825b-d083d2deac1d&reference_type%5B%5D=OrderItem&reference_type%5B%5D=Void&simple=true&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770808053653
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v3/orders?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date%5Bgeq%5D=Wed,+11+Feb+2026+00:00:00.000&date%5Bleq%5D=Wed,+11+Feb+2026+23:59:59.999&domain=localhost&outlet_id=&page=1&per_page=20&sort%5Border%5D=desc&sort%5Bproperty%5D=date&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770808235069
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v3/orders?current_user_id=10604ca2-c99a-4985-b8d7-0e90f89fa624&date%5Bgeq%5D=Wed,+11+Feb+2026+00:00:00.000&date%5Bleq%5D=Wed,+11+Feb+2026+23:59:59.999&domain=localhost&outlet_id=&page=1&per_page=20&sort%5Border%5D=desc&sort%5Bproperty%5D=date&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770808236178
+  },
+  {
+    "type": "network-request",
+    "method": "GET",
+    "url": "http://localhost:3000/v2/orders/f7ef9ae7-1de5-4029-a059-87e443743227?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "postData": null,
+    "ts": 1770808245572
+  },
+  {
+    "type": "network-response",
+    "status": 200,
+    "url": "http://localhost:3000/v2/orders/f7ef9ae7-1de5-4029-a059-87e443743227?domain=localhost&token=dzNjeDNXTlh6ZzF3UmVlVUZSY0RMS3dmSXJoTTFSNHYrU29iSVg2bU5ZMD0K",
+    "ts": 1770808247058
+  }
+]
